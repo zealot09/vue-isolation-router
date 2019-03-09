@@ -1,0 +1,26 @@
+{
+  "name": "vue-isolation-router",
+  "version": "0.0.1",
+  "description": "solution for SPA navigation like native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zealot09/vue-isolation-router.git"
+  },
+  "keywords": [
+    "vue",
+    "spa",
+    "router",
+    "isolation",
+    "keep-alive"
+  ],
+  "author": "leiguo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zealot09/vue-isolation-router/issues"
+  },
+  "homepage": "https://github.com/zealot09/vue-isolation-router#readme"
+}
